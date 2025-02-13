@@ -1,0 +1,1 @@
+This project is for Databel, a telecommunications company based in the USA. The task is to analyze the provided dataset of churned customers to identify the reasons for their churn and help the company address the issue.
